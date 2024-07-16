@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "539720199129",
+    "firebase_url": "https://datn-2024-5610e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "datn-2024-5610e",
+    "storage_bucket": "datn-2024-5610e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539720199129:android:a52b06ee16c94bcda807c8",
+        "android_client_info": {
+          "package_name": "com.VincentInoue.DATN23"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPIOwcka6Gj0YwHSgDSMv_sSNAossS_EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
